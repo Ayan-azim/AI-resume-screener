@@ -657,7 +657,3 @@ Other tunables (scoring caps, request timeouts of 30 s for the LLM and 6 s for G
 No license is currently specified for this repository.
 
 ---
-
-## Author
-
-Utkarsh Amaresh
